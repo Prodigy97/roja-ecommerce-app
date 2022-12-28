@@ -8,6 +8,7 @@ const PaymentScreen = () => {
   const submitHandler = (e) => {
     e.preventDefault();
   };
+  
   return (
     <>
       <Header />

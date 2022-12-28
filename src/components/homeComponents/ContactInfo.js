@@ -9,7 +9,7 @@ const ContactInfo = () => {
             <div className="info-image">
               <i className="fas fa-phone-alt"></i>
             </div>
-            <h5>Call Us 24x7</h5>
+            <h5>Call Us 24/7</h5>
             <p>0736 230 063</p>
           </div>
         </div>

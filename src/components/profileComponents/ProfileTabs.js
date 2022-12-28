@@ -10,7 +10,6 @@ const ProfileTabs = () => {
             <input className="form-control" type="text" required />
           </div>
         </div>
-
         <div className="col-md-6">
           <div className="form">
             <label for="account-email">E-mail Address</label>

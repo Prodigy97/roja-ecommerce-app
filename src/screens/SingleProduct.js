@@ -7,6 +7,7 @@ import products from "../data/Products";
 
 const SingleProduct = ({ match }) => {
   const product = products.find((p) => p._id === match.params.id);
+  
   return (
     <>
       <Header />
